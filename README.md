@@ -11,6 +11,7 @@ I want to build a career as a tester, starting with manual testing and then prog
 * 🧠  I'm learning QA/Manual Testing (Web/Mobile, Postman, SQL, Git, Bash)
 * ⚡  I’m interested in Manual Testing & Automation Testing
 <img align="left" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 ### Skills
 
 <p align="left">
