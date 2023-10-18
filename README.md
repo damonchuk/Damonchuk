@@ -10,9 +10,7 @@ I want to build a career as a tester, starting with manual testing and then prog
 * ✉️  You can contact me at [dmytro.ambros@gmail.com](mailto:dmytro.ambros@gmail.com)
 * 🧠  I'm learning QA/Manual Testing (Web/Mobile, Postman, SQL, Git, Bash)
 * ⚡  I’m interested in Manual Testing & Automation Testing
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![Snake animation](https://github.com/Damonchuk/Damonchuk/blob/output/github-contribution-grid-snake.svg)
 ### Skills
 
 <p align="left">
